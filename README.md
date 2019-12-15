@@ -17,3 +17,8 @@ React (Reason) + Wasm (Rust)
 - yarn start (reason compiler)
 - yarn dev (webpack-dev-server + wasm)
 
+## Production™ build
+
+```
+yarn build:prod
+```
