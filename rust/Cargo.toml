@@ -1,7 +1,7 @@
 [package]
 name = "era"
 version = "0.1.0"
-authors = ["Fariz Rizaldy (farizrizaldy@icloud.com)"]
+authors = ["Fariz Rizaldy <farizrizaldy@icloud.com>"]
 edition = "2018"
 
 [lib]
