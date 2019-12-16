@@ -536,11 +536,6 @@ browserify-zlib@^0.2.0:
   dependencies:
     pako "~1.0.5"
 
-bs-dynamic-import@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/bs-dynamic-import/-/bs-dynamic-import-0.4.0.tgz#73e72d4ab38d68bd448652392b7d99bd72c1b8c6"
-  integrity sha512-8d9O6A87x8dc82cV7a67azs/p+FhRtP78bwcTzpGifSEfb9Oj66rCrVU5zZE7GVJqSBP+XpsgoaEAqlddtI3/g==
-
 bs-platform@^7.0.1:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-7.0.1.tgz#1d7b0ef6088b998dceee5db74a7cd8f01c20a3bd"
